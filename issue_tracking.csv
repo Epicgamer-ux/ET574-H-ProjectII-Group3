@@ -1,0 +1,6 @@
+issue_id,title,status,opened_by,commit_id
+1,Implement factorial(x),closed,Kristian,<commit-hash>
+2,Implement floor(x),closed,Kristian,<commit-hash>
+3,Implement area_of_circle(r),closed,Kristian,<commit-hash>
+4,Implement is_perfect_number(n),closed,Kristian,<commit-hash>
+5,Write tests for all functions,closed,Kristian,<commit-hash>
